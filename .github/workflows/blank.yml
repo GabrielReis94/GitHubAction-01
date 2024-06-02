@@ -5,10 +5,7 @@ name: Meu Primeiro Workflow
 on:
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
     
-  workflow_dispatch:
 # Definindo os jobs que o workflow executará
 jobs:
   jobs01:
