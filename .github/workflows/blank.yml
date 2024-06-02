@@ -17,8 +17,10 @@ jobs:
     steps:
       - name: steps 1
       - uses: actions/checkout@v4
+      
       - name: steps 2
         run: echo Olá Galera do Devops!
+        
       - name: steps 3
         run: echo Olá Galera do Devops da steps 3!
 
