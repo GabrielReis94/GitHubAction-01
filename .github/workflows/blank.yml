@@ -14,8 +14,3 @@ jobs:
     steps:
      - name: steps 1
      - uses: actions/checkout@v4
-      
-  
-
-      # Runs a set of commands using the runners shell
-      
