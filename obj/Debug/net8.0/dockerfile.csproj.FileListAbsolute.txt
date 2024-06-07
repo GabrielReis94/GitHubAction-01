@@ -1,0 +1,14 @@
+C:\MBA Arquitetura\dockerfile\bin\Debug\net8.0\dockerfile.exe
+C:\MBA Arquitetura\dockerfile\bin\Debug\net8.0\dockerfile.deps.json
+C:\MBA Arquitetura\dockerfile\bin\Debug\net8.0\dockerfile.runtimeconfig.json
+C:\MBA Arquitetura\dockerfile\bin\Debug\net8.0\dockerfile.dll
+C:\MBA Arquitetura\dockerfile\bin\Debug\net8.0\dockerfile.pdb
+C:\MBA Arquitetura\dockerfile\obj\Debug\net8.0\dockerfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\MBA Arquitetura\dockerfile\obj\Debug\net8.0\dockerfile.AssemblyInfoInputs.cache
+C:\MBA Arquitetura\dockerfile\obj\Debug\net8.0\dockerfile.AssemblyInfo.cs
+C:\MBA Arquitetura\dockerfile\obj\Debug\net8.0\dockerfile.csproj.CoreCompileInputs.cache
+C:\MBA Arquitetura\dockerfile\obj\Debug\net8.0\dockerfile.dll
+C:\MBA Arquitetura\dockerfile\obj\Debug\net8.0\refint\dockerfile.dll
+C:\MBA Arquitetura\dockerfile\obj\Debug\net8.0\dockerfile.pdb
+C:\MBA Arquitetura\dockerfile\obj\Debug\net8.0\dockerfile.genruntimeconfig.cache
+C:\MBA Arquitetura\dockerfile\obj\Debug\net8.0\ref\dockerfile.dll
