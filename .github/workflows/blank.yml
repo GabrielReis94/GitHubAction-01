@@ -4,7 +4,7 @@ name: Meu Primeiro Workflow
 # Definindo quando meu workflow é disparado.
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main," ]
     
 # Definindo os jobs que o workflow executará
 jobs:
@@ -13,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Step 1
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
 
     - name: Docker Login
       uses: docker/login-action@v3.2.0
       with:
         username: 'gabrielcardoso94'
-        password: ${{secrets.TOKEN_DOCKER_HUB}}
+        password: ${{ secrets.TOKEN_DOCKER_HUB }}
 
     
     
