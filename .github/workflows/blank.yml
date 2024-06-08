@@ -25,7 +25,7 @@ jobs:
       uses: docker/build-push-action@v5.3.0
       with:
         context: .
-        tags: 'v2'
+        tags: 'gabrielcardoso94/dotnetapi01:v2'
         push: true
         
 
