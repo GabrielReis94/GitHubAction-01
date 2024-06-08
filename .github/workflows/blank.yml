@@ -4,7 +4,7 @@ name: Meu Primeiro Workflow
 # Definindo quando meu workflow é disparado.
 on:
   push:
-    branches: [ "main," ]
+    branches: [ "main" ]
     
 # Definindo os jobs que o workflow executará
 jobs:
